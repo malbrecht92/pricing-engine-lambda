@@ -1,4 +1,4 @@
-# aws_lambda_api
+# Pricing Engine Lambda
 
 This module creates a Lambda function, and makes it available via a custom domain, complete with SSL termination: e.g. `https://api.example.com/`. This includes:
 
